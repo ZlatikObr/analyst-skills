@@ -1,9 +1,0 @@
-{
-  "name": "equity-research",
-  "version": "0.1.0",
-  "description": "Инвестиционный разбор эмитента: сторилайн по MECE и пирамиде Минто, формат 6-pager, визуализация для отчетов, агент-рецензент в роли частного инвестора на российском рынке.",
-  "author": {
-    "name": "Zlata Obrazumova"
-  },
-  "keywords": ["equity", "research", "minto", "mece", "valuation", "moex"]
-}

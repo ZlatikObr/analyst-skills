@@ -1,9 +1,0 @@
-{
-  "name": "ru-research-writing",
-  "version": "0.1.0",
-  "description": "Русский стиль исследовательских отчетов: тезис в начале абзаца, источник у каждого числа, проверка сопоставимости перед любым сравнением, обязательная проверка расчетов перед выдачей файла.",
-  "author": {
-    "name": "Zlata Obrazumova"
-  },
-  "keywords": ["russian", "research", "writing", "analytics", "fact-check"]
-}
