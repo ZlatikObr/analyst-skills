@@ -5,7 +5,7 @@
 ## Структура репозитория
 
 ```
-<имя>-skills/          личная папка участника, например zlata-skills, ivan-skills
+<имя>-skills/          личная папка участника, например zlata-skills, andrey-skills, alexandra-skills
   <skill-name>/
     SKILL.md           сам навык
 
