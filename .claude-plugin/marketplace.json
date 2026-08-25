@@ -1,0 +1,29 @@
+{
+  "name": "analyst-skills",
+  "owner": {
+    "name": "Zlata Obrazumova",
+    "email": "zlata.obrazumova280904@gmail.com"
+  },
+  "metadata": {
+    "description": "Навыки аналитической команды: русский стиль отчетов, проверка чисел, сторилайн по Минто, визуализация, рецензирование инвестиционных материалов.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ru-research-writing",
+      "source": "./plugins/ru-research-writing",
+      "displayName": "Русский стиль исследовательских отчетов",
+      "description": "Стиль текста, источники внутри предложений, проверка сопоставимости чисел и обязательная проверка перед выдачей файла.",
+      "version": "0.1.0",
+      "category": "writing"
+    },
+    {
+      "name": "equity-research",
+      "source": "./plugins/equity-research",
+      "displayName": "Инвестиционный разбор эмитента",
+      "description": "Сторилайн по MECE и Минто, визуализация для отчетов, агент-рецензент в роли частного инвестора на российском рынке.",
+      "version": "0.1.0",
+      "category": "research"
+    }
+  ]
+}

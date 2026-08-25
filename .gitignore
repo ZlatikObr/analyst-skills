@@ -1,0 +1,36 @@
+# Рабочие файлы проектов не хранятся в репозитории навыков
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.docx
+*.pptx
+*.pdf
+*.zip
+
+# Секреты
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.*
+
+# Локальные настройки Claude
+.claude/settings.local.json
+.claude/plugins/
+
+# Служебное
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+*.log
+*.tmp
+~$*
+
+# Исключения: файлы, которые навыкам нужны
+!plugins/**/skills/**/assets/*.pdf
+!plugins/**/skills/**/fixtures/*.csv
